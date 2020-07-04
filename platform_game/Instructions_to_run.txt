@@ -1,0 +1,4 @@
+1.Download the arcade library by 
+"pip install arcade"
+2.Run the file:09_endgame.py
+3.The blockchain status can be seen on the console.

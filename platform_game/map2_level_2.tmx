@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.5" orientation="orthogonal" renderorder="right-down" width="40" height="15" tilewidth="128" tileheight="128" infinite="0" backgroundcolor="#ddffff" nextlayerid="7" nextobjectid="1">
+ <tileset firstgid="1" source="tiles.tsx"/>
+ <layer id="1" name="Platforms" width="40" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApGwXACnWj8bijuIMEMRuo5BwWA3NaMxAe5qwaKmxiId+NcIJ6HB89HUjuPBH01RGB8+mF2AwC4FBrI
+  </data>
+ </layer>
+ <layer id="4" name="Foreground" width="40" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApGwXADS5HwYARLkPBwBACPMAPc
+  </data>
+ </layer>
+ <layer id="3" name="Coins" width="40" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApGwSggH/BSWd1wAAAjYAAb
+  </data>
+ </layer>
+ <layer id="5" name="Background" width="40" height="15" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApGwSjAD6pppHa4AgAYawD3
+  </data>
+ </layer>
+ <layer id="2" name="Don't Touch" width="40" height="15" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApGwSgYfqAXitHZ9AAACP8CNQ==
+  </data>
+ </layer>
+</map>
